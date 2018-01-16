@@ -11,7 +11,8 @@
 2. Crée un nouveau dépôts sur votre compte github.
 3. Crée un fichier et exporter le sur votre dépôt
 4. Apres modification de ce dépôt importer les modifications
-5. (Expert) crée votre Github-Page ou héberger votre dépôts avec la JamStack
+5. Crée une branch et l'exploité
+6. (Expert) crée votre Github-Page ou héberger votre dépôts avec la JamStack
  
 
 ----
