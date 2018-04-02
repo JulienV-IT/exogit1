@@ -28,3 +28,5 @@ je vous remet ici quelques liens
 [guide2](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 [cheat](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
+[training](https://try.github.io/levels/1/challenges/1)
