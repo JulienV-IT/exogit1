@@ -31,6 +31,8 @@ je vous remet ici quelques liens
 
 [training](https://try.github.io/levels/1/challenges/1)
 
-[Site-Web-Demo](http://tutogit.netlify.com)
 
 # mesfichier
+
+ici mon schema :
+![schema](https://github.com/JulienV-IT/exogit1/blob/master/git-init.png)
