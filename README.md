@@ -31,6 +31,8 @@ je vous remet ici quelques liens
 
 [training](https://try.github.io/levels/1/challenges/1)
 
+[explanation On Youtube](https://www.youtube.com/watch?v=eXF0epLeCgo)
+
 
 # mesfichier
 
